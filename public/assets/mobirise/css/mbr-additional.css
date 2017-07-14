@@ -492,6 +492,9 @@ h6,
   color: #ffffff;
   font-family: 'Raleway', sans-serif;
 }
+#header1-3 .btn {
+  font-size: 36px;
+}
 #header2-5 .mbr-section-title {
   font-family: 'Raleway', sans-serif;
   text-align: left;
@@ -504,17 +507,15 @@ h6,
 #header2-7 .mbr-section-title {
   font-family: 'Raleway', sans-serif;
   font-size: 60px;
-  text-align: left;
+  text-align: right;
 }
-#msg-box6-8 .mbr-section-title,
-#msg-box6-8 .lead p {
-  color: #fff;
-}
-#msg-box6-8 H3 {
+#header1-b .mbr-section-title {
   font-family: 'Raleway', sans-serif;
   font-size: 60px;
-  text-align: left;
+}
+#header1-b .btn {
+  font-size: 16px;
 }
 #contacts1-9 P {
-  color: #ffffff;
+  color: #f3c649;
 }
